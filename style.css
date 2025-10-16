@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+#captcha-container {
+    margin-bottom: 20px;
+}
+
+#captcha-image {
+    max-width: 300px;
+    border: 1px solid #ccc;
+}
+
+#input-container {
+    margin-bottom: 20px;
+}
+
+#solution-container {
+    margin-top: 20px;
+}
